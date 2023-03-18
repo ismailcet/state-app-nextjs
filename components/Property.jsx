@@ -38,6 +38,7 @@ const Property = ({
             width={400}
             height={260}
             alt="House"
+            style={{ height: "260px" }}
           />
           <Box w="full">
             <Flex
